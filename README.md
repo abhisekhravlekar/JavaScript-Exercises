@@ -7,59 +7,59 @@ JavaScript: Code Academy ( Online Class: Exercises )
 
 ![](JavaScript/01_Online-Class-Exercises.png)
 
-1. Online Class Exercises
+1. Introduction to JavaScript
 
 ![](JavaScript/02_Introduction-to-JavaScript.png)
 
-2. Introduction to JavaScript
+2. Conditional Statements
 
 ![](JavaScript/03_Conditional-Statements.png)
 
-3. Introduction to Functions in PHP
+3. Functions
 
 ![](JavaScript/04_Functions.png)
 
-4. PHP Built in Functions
+4. Scope
 
 ![](JavaScript/05_Scope.png)
 
-5. Learn PHP Arrays
+5. Arrays
 
 ![](JavaScript/06_Arrays.png)
 
-6. HTML Form Handling in PHP
+6. Loops
 
 ![](JavaScript/07_Loops.png)
 
-7. Conditionals and Logic in PHP
+7. Iterators
 
 ![](JavaScript/08_Iterators.png)
 
-8. Loops in PHP
+8. Objects
 
 ![](JavaScript/09_Objects.png)
 
-9. PHP Form Validation
+9. Classes
 
 ![](JavaScript/10_Classes.png)
 
-10. Classes and Objects in PHP
+10. Browser Compatibility and Transpilation
 
 ![](JavaScript/11_Browser-Compatibility-and-Transpilation.png)
 
-7. Conditionals and Logic in PHP
+11. Modules
 
 ![](JavaScript/12_Modules.png)
 
-8. Loops in PHP
+12. Promises
 
 ![](JavaScript/13_Promises.png)
 
-9. PHP Form Validation
+13. Async Await
 
 ![](JavaScript/14_Async-Await.png)
 
-10. Classes and Objects in PHP
+14. Requests
 
 ![](JavaScript/15_Requests.png)
 
